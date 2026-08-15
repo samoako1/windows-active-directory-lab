@@ -1,8 +1,8 @@
-\# Active Directory Configuration
+# Active Directory Configuration
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -14,7 +14,7 @@ The Active Directory environment was designed to simulate a small enterprise net
 
 
 
-\## Domain Information
+## Domain Information
 
 
 
@@ -36,7 +36,7 @@ The Active Directory environment was designed to simulate a small enterprise net
 
 
 
-\## Organizational Unit Structure
+## Organizational Unit Structure
 
 
 
@@ -72,7 +72,7 @@ This structure also provides a foundation for applying Group Policy and delegate
 
 
 
-\## Employees OU
+## Employees OU
 
 
 
@@ -100,7 +100,7 @@ The employee account was used throughout the lab to validate domain authenticati
 
 
 
-\## IT OU
+## IT OU
 
 
 
@@ -116,7 +116,7 @@ The Helpdesk role was intentionally given limited permissions rather than unrest
 
 
 
-\## HR OU
+## HR OU
 
 
 
