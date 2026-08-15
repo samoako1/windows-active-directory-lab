@@ -1,0 +1,27 @@
+# Windows
+Thumbs.db
+desktop.ini
+
+# VMware
+*.lck/
+*.vmem
+*.vmsn
+*.vmss
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Secrets
+.env
+*.pem
+*.key
+*.pfx
+
+# Credentials
+*password*
+*credentials*
